@@ -1,0 +1,887 @@
+{
+  "settings": {
+    "name": "Mosaic Retailers",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.3.0",
+    "uniqCompNum": 35,
+    "versionPublish": "4.3.0",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "Has field to enter site #",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Please enter ID<br></b><br>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Log in</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "32px",
+              "text-align": "left"
+            },
+            "B": {
+              "font-size": "30px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".btn": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "20px"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Welcome, Central Perk",
+        "meta_descr": "Logged in screen with tap list",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Hello, Central Perk.</b><br>",
+          "text": "<b>Hello, Central Perk.</b>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Scan<br></a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "30px"
+            },
+            "H2": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "msg-box1-u"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ABC Brewing - Aye Aye IPA<br>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-5",
+          "_styles": {
+            "H2": {
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ABC Brewing - Cub Stout<br>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            },
+            "B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-7"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Beta Brews - Indiana Pale Ale<br>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            },
+            "B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-w"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Scanned, Aye Aye IPA",
+        "meta_descr": "Scanned Aye Aye IPA gives option to add/subtract",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>You have scanned:</b><br>",
+          "text": "<b>You have scanned:</b>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Log in</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-9",
+          "_styles": {
+            "B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "30px"
+            },
+            "H2": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ABC Brewing - Aye Aye IPA<br><br>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            },
+            "B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-a"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Took out Aye Aye IPA",
+        "meta_descr": "Logged in screen with updated tap list",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Hello, Central Perk.</b><br>",
+          "text": "<b>Hello, Central Perk.</b>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Scan<br></a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-d",
+          "_styles": {
+            "B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "30px"
+            },
+            "P": {
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "H2": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ABC Brewing - Cub Stout<br>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Beta Brews - Indiana Pale Ale<br>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            },
+            "B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ABC Brewing - Aye Aye IPA<br>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-e"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Added Sour Hour",
+        "meta_descr": "Logged in screen with updated tap list, with inactive beers on bottom",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 6
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Hello, Central Perk.</b><br>",
+          "text": "<b>Hello, Central Perk.</b>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Scan<br></a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-h",
+          "_styles": {
+            "B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "H2": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ABC Brewing - Cub Stout<br>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-j"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<p>ABC Brewing - Sour Hour<br></p>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-k"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Beta Brews - Indiana Pale Ale<br>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            },
+            "B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-y"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ABC Brewing - Aye Aye IPA<br>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-i"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "Scanned, Sour Hour",
+        "meta_descr": "Scanned Sour Hour gives option to add/subtract",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>You have scanned:</b><br>",
+          "text": "<b>You have scanned:</b>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Log in</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "30px"
+            },
+            "H2": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "msg-box1-v"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ABC Brewing - Sour Hour<br><br>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box1-m"
+        }
+      ]
+    }
+  }
+}
