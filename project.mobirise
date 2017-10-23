@@ -48,7 +48,7 @@
           },
           "title": "<b>Please enter ID<br></b><br>",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Log in</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Log in</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -109,7 +109,7 @@
           },
           "title": "<b>Hello, Central Perk.</b><br>",
           "text": "<b>Hello, Central Perk.</b>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Scan<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Scan<br></a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -152,7 +152,7 @@
           },
           "title": "ABC Brewing - Aye Aye IPA<br>",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -194,7 +194,7 @@
           },
           "title": "ABC Brewing - Cub Stout<br>",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -240,7 +240,7 @@
           },
           "title": "Beta Brews - Indiana Pale Ale<br>",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -341,7 +341,7 @@
           },
           "title": "ABC Brewing - Aye Aye IPA<br><br>",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Out</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -399,7 +399,7 @@
           },
           "title": "<b>Hello, Central Perk.</b><br>",
           "text": "<b>Hello, Central Perk.</b>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Scan<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Scan<br></a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -447,7 +447,7 @@
           },
           "title": "ABC Brewing - Cub Stout<br>",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -489,7 +489,7 @@
           },
           "title": "Beta Brews - Indiana Pale Ale<br>",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -535,7 +535,7 @@
           },
           "title": "ABC Brewing - Aye Aye IPA<br>",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -589,7 +589,7 @@
           },
           "title": "<b>Hello, Central Perk.</b><br>",
           "text": "<b>Hello, Central Perk.</b>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Scan<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Scan<br></a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -635,7 +635,7 @@
           },
           "title": "ABC Brewing - Cub Stout<br>",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -677,7 +677,7 @@
           },
           "title": "<p>ABC Brewing - Sour Hour<br></p>",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -719,7 +719,7 @@
           },
           "title": "Beta Brews - Indiana Pale Ale<br>",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -765,7 +765,7 @@
           },
           "title": "ABC Brewing - Aye Aye IPA<br>",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -862,7 +862,7 @@
           },
           "title": "ABC Brewing - Sour Hour<br><br>",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">In</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Out</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
